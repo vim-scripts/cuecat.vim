@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=482
+
+This is a driver for the CueCat barcode scanner that lets you scan barcodes straight into Vim's insert mode.
